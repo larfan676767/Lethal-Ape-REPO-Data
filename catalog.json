@@ -3907,6 +3907,149 @@
       "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
       "ActivatedMembership": null
+    },
+    {
+      "ItemId": "ICY_EYE",
+      "ItemClass": "EYE",
+      "CatalogVersion": "Main",
+      "DisplayName": "ICY_EYE",
+      "Description": "ICY_EYE",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "ICY_SWEATER",
+      "ItemClass": "BODY",
+      "CatalogVersion": "Main",
+      "DisplayName": "ICY_SWEATER",
+      "Description": "ICY_SWEATER",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "ICY_SKIN",
+      "ItemClass": "SKIN",
+      "CatalogVersion": "Main",
+      "DisplayName": "ICY_SKIN",
+      "Description": "ICY_SKIN",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "IB",
+      "ItemClass": null,
+      "CatalogVersion": "Main",
+      "DisplayName": "IB",
+      "Description": "Icy Bundle",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": {
+        "BundledItems": [
+          "ICY_EYE",
+          "ICY_SKIN",
+          "ICY_SWEATER"
+        ],
+        "BundledResultTables": [],
+        "BundledVirtualCurrencies": null
+      },
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "HALLOWEEN_EYES",
+      "ItemClass": "EYE",
+      "CatalogVersion": "Main",
+      "DisplayName": "HALLOWEEN_EYES",
+      "Description": "Halloweeeneie",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
     }
   ],
   "DropTables": []
