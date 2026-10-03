@@ -4053,7 +4053,7 @@
     },
     {
       "ItemId": "IHL",
-      "ItemClass": "HEAD",
+      "ItemClass": "BODY",
       "CatalogVersion": "Main",
       "DisplayName": "I Heart LA:R",
       "Description": "IHL",
