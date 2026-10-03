@@ -4139,6 +4139,33 @@
       "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
       "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Meta Headset",
+      "ItemClass": "FACE",
+      "CatalogVersion": "Main",
+      "DisplayName": "Meta VR",
+      "Description": "MetaHAHA",
+      "VirtualCurrencyPrices": {
+        "GD": 100
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
     }
   ],
   "DropTables": []
