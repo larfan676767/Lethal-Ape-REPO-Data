@@ -4258,7 +4258,7 @@
     },
     {
       "ItemId": "Flesher",
-      "ItemClass": "MONSTER",
+      "ItemClass": "MonsterSkin",
       "CatalogVersion": "Main",
       "DisplayName": "Flesher",
       "Description": "aaaaaaaaaaaaaaaaaaaaa",
