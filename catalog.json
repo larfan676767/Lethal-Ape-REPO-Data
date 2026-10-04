@@ -4285,7 +4285,7 @@
     },
     {
       "ItemId": "Stella",
-      "ItemClass": "PLAYERMODEL",
+      "ItemClass": "MonsterSkin",
       "CatalogVersion": "Main",
       "DisplayName": "Stella",
       "Description": "ah mommy~",
