@@ -4166,6 +4166,95 @@
       "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
       "ActivatedMembership": null
+    },
+    {
+      "ItemId": "CCTS",
+      "ItemClass": "BODY",
+      "CatalogVersion": "Main",
+      "DisplayName": "Construction Crew shurt",
+      "Description": "CCTS",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Pickaxe",
+      "ItemClass": "HAND",
+      "CatalogVersion": "Main",
+      "DisplayName": "DIAMOND PIX",
+      "Description": "dsdafef",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "CCB",
+      "ItemClass": "HEAD",
+      "CatalogVersion": "Main",
+      "DisplayName": "CCB",
+      "Description": "AAAAAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": {
+        "BundledItems": [
+          "MinerHat",
+          "CCTS",
+          "Pickaxe"
+        ],
+        "BundledResultTables": [],
+        "BundledVirtualCurrencies": null
+      },
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
     }
   ],
   "DropTables": []
