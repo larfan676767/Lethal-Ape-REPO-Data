@@ -4363,6 +4363,228 @@
       "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
       "ActivatedMembership": null
+    },
+    {
+      "ItemId": "LAR_CCTS",
+      "ItemClass": "FACE",
+      "CatalogVersion": "Main",
+      "DisplayName": "Lethal Ape CC Shirt",
+      "Description": "aaaaaaa",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "ApeRig_Fem",
+      "ItemClass": "PLAYERMODEL",
+      "CatalogVersion": "Main",
+      "DisplayName": "Breasts",
+      "Description": "AAAAAAAAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "DEFAULT_EYE",
+      "ItemClass": "EYE",
+      "CatalogVersion": "Main",
+      "DisplayName": "Default eye",
+      "Description": "AAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "BMGMask",
+      "ItemClass": "FACE",
+      "CatalogVersion": "Main",
+      "DisplayName": "BMGMask",
+      "Description": "AAAAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "BMGB",
+      "ItemClass": null,
+      "CatalogVersion": "Main",
+      "DisplayName": "BMGB",
+      "Description": "AAAAAA",
+      "VirtualCurrencyPrices": {},
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": {
+        "BundledItems": [
+          "BMGMask"
+        ],
+        "BundledResultTables": [],
+        "BundledVirtualCurrencies": {
+          "GD": 100
+        }
+      },
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Love_eye",
+      "ItemClass": "FACE",
+      "CatalogVersion": "Main",
+      "DisplayName": "NOTICE ME SENPAI~",
+      "Description": "AAAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "ArroThruHed",
+      "ItemClass": "HEAD",
+      "CatalogVersion": "Main",
+      "DisplayName": "ArroThruHed",
+      "Description": "AAA",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "AngelWings",
+      "ItemClass": "BODY",
+      "CatalogVersion": "Main",
+      "DisplayName": "AngelWings",
+      "Description": "AAA",
+      "VirtualCurrencyPrices": {
+        "GD": 1000
+      },
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
     }
   ],
   "DropTables": []
