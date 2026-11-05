@@ -1,146 +1,150 @@
 <div align="center">
 
 <a href="https://github.com/larfan676767/Lethal-Ape-REPO-Data">
-<img src="https://raw.githubusercontent.com/larfan676767/Lethal-Ape-REPO-Data/main/Lethal%20Ape%20Redux_%20Cyan%20Plush%20Poster.png" width="650" alt="Lethal Ape Redux Cyan Plush Poster">
+<img src="https://raw.githubusercontent.com/larfan676767/Lethal-Ape-REPO-Data/main/Lethal%20Ape%20Redux_%20Cyan%20Plush%20Poster.png" width="650" alt="Lethal Ape Redux">
 </a>
 
 <br><br>
 
 <a href="https://github.com/larfan676767/Lethal-Ape-REPO-Data">
-<img src="https://img.shields.io/github/stars/larfan676767/Lethal-Ape-REPO-Data?style=for-the-badge&label=stars" alt="GitHub Stars">
+<img src="https://img.shields.io/github/stars/larfan676767/Lethal-Ape-REPO-Data?style=for-the-badge&label=Stars" alt="GitHub Stars">
 </a>
 <a href="https://github.com/larfan676767/Lethal-Ape-REPO-Data/releases">
-<img src="https://img.shields.io/github/v/release/larfan676767/Lethal-Ape-REPO-Data?style=for-the-badge&label=version" alt="Latest Release">
+<img src="https://img.shields.io/github/v/release/larfan676767/Lethal-Ape-REPO-Data?style=for-the-badge&label=Latest%20Release" alt="Latest Release">
 </a>
 <a href="https://github.com/larfan676767/Lethal-Ape-REPO-Data">
-<img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge" alt="Open Source">
-</a>
-<a href="https://github.com/larfan676767">
-<img src="https://img.shields.io/badge/GitHub-larfan676767-black?style=for-the-badge&logo=github" alt="GitHub Profile">
+<img src="https://img.shields.io/badge/Project-Open%20Source-brightgreen?style=for-the-badge" alt="Open Source">
 </a>
 
-🦍 Lethal Ape Redux
+Lethal Ape Redux
 
-An open-source educational and research repository maintained by Icy Games LLC.
+An Independent Research and Educational Initiative
 
-Learn. Explore. Experiment. Share.
+Maintained by Icy Games LLC
+
+Research. Development. Documentation. Education.
 
 </div>
 
-📖 About
+Overview
 
-Lethal Ape Redux is an open-source educational and research repository dedicated to documenting, exploring, and learning about Lethal Ape, its gameplay concepts, development technologies, and systems commonly used in VR games.
+Lethal Ape Redux is an open-source educational and research repository maintained by Icy Games LLC.
 
-Whether you're a developer, a beginner learning C#, a VR enthusiast, or simply curious about how games work, this repository is intended to provide useful information and educational resources.
+The project focuses on documenting and exploring Lethal Ape, its gameplay concepts, and the broader technologies and development principles associated with virtual reality games.
 
-Why just play the game when you can learn how games are made?
+The repository is intended to serve as a learning resource for developers, programmers, researchers, and individuals interested in understanding modern game development.
 
-💡 Why Open Source?
+Its areas of interest include C# programming, Unity development, virtual reality systems, artificial intelligence, multiplayer architecture, and interactive gameplay mechanics.
 
-We believe the modding and game development communities should be about sharing, learning, and improving together.
+The primary objective is to make technical knowledge more accessible through documentation, research, and educational programming examples.
 
-Too much development knowledge is hidden behind paywalls, private repositories, and obfuscated projects. We want to encourage a different approach.
+Project Philosophy
 
-By keeping this repository open source, we're giving everyone the opportunity to:
+Lethal Ape Redux is built around the idea that technical knowledge should be accessible, understandable, and open to collaboration.
 
-Learn how game systems work.
-Study C# and Unity development.
-Explore VR programming concepts.
-Research Lethal Ape gameplay mechanics.
-Experiment with educational examples.
-Contribute documentation and information.
-Help keep learning free and accessible.
+Game development is a constantly evolving field. Sharing documentation, research, and educational resources allows developers to learn from one another and build a stronger development community.
 
-⭐ Let's bring back collaboration in development. No unnecessary secrets, no paywalls, just learning and sharing.
+This repository aims to:
 
-❓ Can I Use Your Code?
+Encourage open collaboration and knowledge sharing.
+Provide accessible programming and development resources.
+Document relevant gameplay and technical concepts.
+Promote responsible research and experimentation.
+Support individuals learning C#, Unity, and VR development.
+Maintain an organized collection of educational materials.
 
-Of course! This repository is intended to encourage learning and collaboration.
+The project prioritizes transparency, accessibility, and responsible development.
 
-The repository uses the GNU General Public License v3.0 (GPL-3.0) for covered original materials.
+Licensing and Code Usage
 
-This means:
+This repository uses the GNU General Public License v3.0 (GPL-3.0) for applicable original materials.
 
-You may use, study, and modify covered code.
-You must provide appropriate attribution.
-You must preserve applicable copyright and license notices.
-Redistributed derivative works must comply with GPL-3.0.
-You must provide corresponding source code when required by the license.
+Users may study, modify, and redistribute covered materials in accordance with the license.
 
-Please remember that third-party assets and materials may have separate licensing requirements.
+When using or redistributing covered materials, contributors and users must:
 
-"You wouldn't download knowledge."
+Preserve applicable copyright and license notices.
+Provide appropriate attribution.
+Comply with GPL-3.0 redistribution requirements.
+Make corresponding source code available when required.
+Ensure derivative works comply with applicable license terms.
 
-⭐ Learn it, understand it, and improve it.
+Third-party assets, trademarks, and materials may be subject to separate licensing conditions and are not automatically covered by this repository's license.
 
-📚 What Can I Learn?
+For additional information, consult the GNU General Public License v3.0.
 
-This repository covers a variety of game development and programming concepts.
+Research Areas
 
-🦍 Lethal Ape Research
-Game information and mechanics.
-Gameplay systems.
+The repository covers several areas of interest related to game development and interactive systems.
+
+Lethal Ape Research
+Gameplay mechanics and systems.
 Player interactions.
 Environmental design.
-Horror game concepts.
+Horror game design principles.
 Community research.
-💻 Programming
-C# fundamentals.
+General game analysis.
+Software Development
+C# programming fundamentals.
 Object-oriented programming.
-Classes and methods.
+Classes, methods, and interfaces.
 Unity scripting.
 Events and callbacks.
-Code organization.
-🥽 Virtual Reality
+Software organization and architecture.
+Virtual Reality Development
 VR controller tracking.
 Hand-based locomotion.
-Rigidbody physics.
+Physics and Rigidbody systems.
 Collision detection.
-XR interaction.
-VR performance optimization.
-🤖 Artificial Intelligence
-Enemy state machines.
-Player detection.
-Navigation systems.
-Patrol behavior.
-Chase behavior.
-AI decision-making.
-🌐 Multiplayer
+XR interaction systems.
+Performance optimization.
+Artificial Intelligence
+State machine architecture.
+Player detection systems.
+Navigation and pathfinding.
+Patrol and pursuit behaviors.
+Decision-making systems.
+AI behavior design.
+Multiplayer Systems
 Player synchronization.
 Network architecture.
-Lobby systems.
-Connection management.
+Lobby management.
+Connection handling.
 Network latency.
 Multiplayer programming concepts.
-🎨 Game Development
+General Game Development
 3D modeling.
-Animations.
+Animation systems.
 Textures and materials.
-Audio systems.
-Lighting.
+Audio implementation.
+Lighting and rendering.
 Level design.
-Note: These are educational areas of study, not claims that every listed system is implemented in Lethal Ape.
-🛠️ Development Resources
+Research disclaimer: These topics represent educational areas of study and research. Their inclusion does not imply that every listed system is implemented in Lethal Ape or that the repository contains verified internal game source code.
+Development Technologies
 
-Here are some technologies and tools worth exploring when learning about VR and game development.
+The following technologies and tools are relevant to the educational topics covered by this repository.
 
-Technology	Purpose
-C#	Programming
-Unity	Game development
-OpenXR	VR integration
-Blender	3D modeling
+Technology	Application
+C#	Programming language
+Unity	Game development engine
+OpenXR	Virtual reality integration
+Blender	3D modeling and asset creation
 Git	Version control
-Visual Studio	Code editing
-Rigidbody	Physics
-NavMesh	AI navigation
-Animator	Character animation
+Visual Studio	Software development environment
+Rigidbody	Physics simulation
+NavMesh	Navigation and pathfinding
+Animator	Animation management
 Photon	Multiplayer networking concepts
-These are suggested learning resources, not a list of verified project dependencies.
-🔬 Educational Code Examples
 
-Want to learn how basic game systems work? Here are some simple examples.
+These technologies are suggested learning resources and are not a verified list of project dependencies.
 
-Basic Enemy State System
+Educational Code Examples
+
+The repository may include original programming examples designed to demonstrate common development concepts.
+
+The following examples illustrate basic implementations of game-related systems.
+
+Enemy State Management
 csharp
 public enum EnemyState
 {
@@ -160,7 +164,10 @@ public class EnemyExample
     }
 }
 
-Basic Distance Detection
+
+This example demonstrates the use of enumerations and basic state management.
+
+Player Distance Detection
 csharp
 using UnityEngine;
 
@@ -187,105 +194,125 @@ public class DetectionExample : MonoBehaviour
 }
 
 
-These are original educational examples designed to help beginners understand programming concepts.
+This example demonstrates distance calculations, Transform references, and basic detection logic in Unity.
 
-They are not represented as extracted Lethal Ape source code.
+All examples presented as educational code are original learning examples. They are not represented as extracted or decompiled Lethal Ape source code.
+Repository Structure
 
-📂 Repository Information
-
-The repository is intended to organize research and learning materials into categories such as:
+The repository is intended to organize research and development materials into clearly defined categories.
 
 Directory	Description
-Documentation/	General project information
-Research/	Lethal Ape-related research
-Educational-Examples/	Programming examples
+Documentation/	General project documentation
+Research/	Research and game-related analysis
+Educational-Examples/	Programming and development examples
 Resources/	Learning resources and permitted assets
-Development/	Development notes and guides
+Development/	Development notes and technical guides
 
-The repository structure may evolve as the project grows.
+The repository structure may change as additional documentation and resources are introduced.
 
-🤝 Want to Contribute?
+Contributing
 
-Contributions are welcome!
+Contributions are welcome from developers, researchers, and individuals interested in improving the repository.
 
-If you have useful information, educational examples, documentation, or corrections, feel free to contribute.
+Potential contributions include:
 
-How to Contribute
-Fork this repository.
-Make your changes.
-Add useful documentation or educational examples.
-Submit a Pull Request.
-Wait for review.
+Technical documentation.
+Educational programming examples.
+Research and analysis.
+Documentation corrections.
+Development resources.
+Improvements to existing materials.
+Contribution Guidelines
+Fork the repository.
+Create a branch for your changes.
+Make your modifications.
+Ensure submitted materials are properly documented.
+Verify that you have permission to distribute any included third-party materials.
+Submit a Pull Request for review.
 
-Please make sure all contributions are properly credited and that you have permission to share any third-party materials.
+All contributions should prioritize accuracy, clarity, proper attribution, and responsible development practices.
 
-🔐 Privacy and Security
+Privacy and Security
 
-We believe learning and development should be responsible.
+Responsible development and research are important principles of this project.
+
+Contributors are expected to respect privacy, protect sensitive information, and avoid distributing malicious or unauthorized materials.
 
 This repository encourages:
 
-Respecting player privacy.
-Protecting sensitive information.
-Avoiding malicious software.
-Documenting network behavior responsibly.
-Conducting responsible security research.
-Respecting third-party intellectual property.
+Responsible security research.
+Protection of personal and sensitive information.
+Respect for player privacy.
+Responsible documentation of network behavior.
+Respect for third-party intellectual property.
+Secure software development practices.
 
-Never upload passwords, private keys, tokens, or personal information.
+Never commit passwords, authentication tokens, private keys, or other confidential information.
 
-🗣️ Contact Information
+Contact and Project Links
 
-Need help or want to collaborate?
+For questions, collaboration, contributions, or project-related information, use the following resources.
 
-Here are the project's official locations:
+Resource	Link
+GitHub Profile	larfan676767
+Main Repository	Lethal Ape Redux
+Releases	View Releases
+Issues	Report an Issue
+Supporting the Project
 
-GitHub Profile: larfan676767
-Repository: Lethal Ape Redux
-💖 Support
+There are several ways to support the continued development and maintenance of this repository.
 
-If you wish to support this project, here are some ways you can help!
+Method	Description
+GitHub Stars	Star the repository to show support
+Contributions	Submit improvements and documentation
+Issue Reports	Report errors and suggest improvements
+Community	Share the repository with interested developers
+Documentation	Help expand educational resources
 
-Platform	How to Support
-GitHub	⭐ Star the repository
-Contributions	Submit Pull Requests
-Issues	Report bugs and suggest improvements
-Community	Share the project
-Documentation	Help expand learning resources
+Community involvement helps maintain an accessible and useful collection of development knowledge.
 
-Every contribution helps keep educational information accessible!
+Legal Disclaimer
+[!IMPORTANT]
+Lethal Ape Redux is an independent educational and research project maintained by Icy Games LLC.
 
-⚖️ Legal Disclaimer
-[!NOTE]
-This project is an independent educational and research repository maintained by Icy Games LLC.
-This project is not affiliated with, endorsed by, or sponsored by Another Axiom LLC.
-Gorilla Tag and other third-party names, assets, and materials remain the property of their respective owners.
-Third-party materials are not automatically covered by this repository's license.
-All third-party trademarks and intellectual property remain the property of their respective owners.
-📜 License
+This project is not affiliated with, endorsed by, sponsored by, or officially associated with Another Axiom LLC.
 
-Lethal Ape Redux README.md
+Gorilla Tag, Lethal Ape, and other third-party names, trademarks, assets, and materials remain the property of their respective owners, where applicable.
+
+The use of third-party names is for identification and educational reference purposes only.
+
+No ownership of third-party intellectual property is claimed by this repository.
+
+Third-party materials are not automatically covered by the repository's license. Users are responsible for respecting the applicable rights and licensing conditions of those materials.
+
+License
+
+Lethal Ape Redux
 
 Copyright (C) 2026 Icy Games LLC
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This repository is distributed under the GNU General Public License, version 3 (GPL-3.0), or, at your option, any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-See the GNU General Public License for more details.
+See the GNU General Public License for additional details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see:
+A copy of the license should accompany this repository. If it does not, see:
 
 https://www.gnu.org/licenses/
 
 <div align="center">
 
-🦍 Thanks for Checking Out Lethal Ape Redux!
+Lethal Ape Redux
 
-Learn. Explore. Experiment. Share.
+An independent initiative by Icy Games LLC
+
+Research. Development. Documentation. Education.
+
+<br>
 
 <a href="https://github.com/larfan676767/Lethal-Ape-REPO-Data">
-<img src="https://img.shields.io/badge/Maintained%20by-Icy%20Games%20LLC-blue?style=for-the-badge" alt="Maintained by Icy Games LLC">
+<img src="https://img.shields.io/badge/Maintained%20by-Icy%20Games%20LLC-2F5D8A?style=for-the-badge" alt="Maintained by Icy Games LLC">
 </a>
 
 </div>
