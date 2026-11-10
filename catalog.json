@@ -4009,6 +4009,60 @@
       "InitialLimitedEditionCount": 0,
       "ActivatedMembership": null,
       "Bundle": null
+    },
+    {
+      "ItemId": "ApeRig_Fem",
+      "ItemClass": "PLAYERMODEL",
+      "DisplayName": "Big Mommy Boobs",
+      "Description": "AAAA",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "IsStackable": false,
+      "IsTradable": false,
+      "IsLimitedEdition": false,
+      "CatalogVersion": "Main",
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "CanBecomeCharacter": false,
+      "ItemImageUrl": null,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null,
+      "Bundle": null
+    },
+    {
+      "ItemId": "DEFAULT_EYE",
+      "ItemClass": "EYE",
+      "DisplayName": "aaa",
+      "Description": "aaa",
+      "VirtualCurrencyPrices": {
+        "GD": 0
+      },
+      "IsStackable": false,
+      "IsTradable": false,
+      "IsLimitedEdition": false,
+      "CatalogVersion": "Main",
+      "RealCurrencyPrices": {},
+      "Tags": [],
+      "CustomData": null,
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "CanBecomeCharacter": false,
+      "ItemImageUrl": null,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null,
+      "Bundle": null
     }
   ],
   "DropTables": []
