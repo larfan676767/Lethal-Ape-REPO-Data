@@ -3909,68 +3909,17 @@
       "ActivatedMembership": null
     },
     {
-      "ItemId": "ICY_EYE",
-      "ItemClass": "EYE",
-      "CatalogVersion": "Main",
-      "DisplayName": "ICY_EYE",
-      "Description": "ICY_EYE",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "ICY_SWEATER",
+      "ItemId": "2027_Shirt",
       "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "ICY_SWEATER",
-      "Description": "ICY_SWEATER",
+      "DisplayName": "2027 Shirt",
+      "Description": "oh so cool",
       "VirtualCurrencyPrices": {
         "GD": 1000
       },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
       "IsStackable": false,
       "IsTradable": false,
-      "ItemImageUrl": null,
       "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "ICY_SKIN",
-      "ItemClass": "SKIN",
       "CatalogVersion": "Main",
-      "DisplayName": "ICY_SKIN",
-      "Description": "ICY_SKIN",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
       "RealCurrencyPrices": {},
       "Tags": [],
       "CustomData": null,
@@ -3980,478 +3929,22 @@
         "UsagePeriodGroup": null
       },
       "Container": null,
-      "Bundle": null,
       "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
       "ItemImageUrl": null,
-      "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
+      "ActivatedMembership": null,
+      "Bundle": null
     },
     {
-      "ItemId": "IB",
-      "ItemClass": null,
-      "CatalogVersion": "Main",
-      "DisplayName": "IB",
-      "Description": "Icy Bundle",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": {
-        "BundledItems": [
-          "ICY_EYE",
-          "ICY_SKIN",
-          "ICY_SWEATER"
-        ],
-        "BundledResultTables": [],
-        "BundledVirtualCurrencies": {
-          "GD": 10000
-        }
-      },
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "HALLOWEEN_EYES",
-      "ItemClass": "EYE",
-      "CatalogVersion": "Main",
-      "DisplayName": "HALLOWEEN_EYES",
-      "Description": "Halloweeeneie",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "IHL",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "I Heart LA:R",
-      "Description": "IHL",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "SP",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "Supporter Pack",
-      "Description": "ADDDAAAAAAAAAAAAAAAAAAAAASSSSSSSSSSSUUUUUUUUUUUUUPPPPPPPPPPPPOOOOOOOOOOORRRRRTTTTTTERRR",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": {
-        "BundledItems": [
-          "IHL"
-        ],
-        "BundledResultTables": [],
-        "BundledVirtualCurrencies": null
-      },
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "WristBane",
-      "ItemClass": "HAND",
-      "CatalogVersion": "Main",
-      "DisplayName": "WristBane",
-      "Description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 500
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "Meta Headset",
-      "ItemClass": "FACE",
-      "CatalogVersion": "Main",
-      "DisplayName": "Meta VR",
-      "Description": "MetaHAHA",
-      "VirtualCurrencyPrices": {
-        "GD": 100
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "CCTS",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "Construction Crew shurt",
-      "Description": "CCTS",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "Pickaxe",
-      "ItemClass": "HAND",
-      "CatalogVersion": "Main",
-      "DisplayName": "DIAMOND PIX",
-      "Description": "dsdafef",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "CCB",
-      "ItemClass": "HEAD",
-      "CatalogVersion": "Main",
-      "DisplayName": "CCB",
-      "Description": "AAAAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": {
-        "BundledItems": [
-          "MinerHat",
-          "CCTS",
-          "Pickaxe"
-        ],
-        "BundledResultTables": [],
-        "BundledVirtualCurrencies": null
-      },
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "Flesher",
-      "ItemClass": "MonsterSkin",
-      "CatalogVersion": "Main",
-      "DisplayName": "Flesher",
-      "Description": "aaaaaaaaaaaaaaaaaaaaa",
-      "VirtualCurrencyPrices": {
-        "GD": 10000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "Stella",
-      "ItemClass": "PLAYERMODEL",
-      "CatalogVersion": "Main",
-      "DisplayName": "Stella",
-      "Description": "ah mommy~",
-      "VirtualCurrencyPrices": {
-        "GD": 100
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "CONTENT_TAG",
+      "ItemId": "CONTENT TIER ONE",
       "ItemClass": "NAMETAG",
-      "CatalogVersion": "Main",
-      "DisplayName": "CONTENT_TAG",
-      "Description": "TIKTOK,YOUTUBE,SNAPCHAT,INSTA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000000000000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "Skele_Rig",
-      "ItemClass": "PLAYERMODEL",
-      "CatalogVersion": "Main",
-      "DisplayName": "Skele_Rig",
-      "Description": "AAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 10000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "ApeRig_Fem",
-      "ItemClass": "PLAYERMODEL",
-      "CatalogVersion": "Main",
-      "DisplayName": "Breasts",
-      "Description": "AAAAAAAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "DEFAULT_EYE",
-      "ItemClass": "EYE",
-      "CatalogVersion": "Main",
-      "DisplayName": "Default eye",
-      "Description": "AAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "BMGMask",
-      "ItemClass": "FACE",
-      "CatalogVersion": "Main",
-      "DisplayName": "BMGMask",
-      "Description": "AAAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "BMGB",
-      "ItemClass": null,
-      "CatalogVersion": "Main",
-      "DisplayName": "BMGB",
-      "Description": "AAAAAA",
+      "DisplayName": "AA",
+      "Description": "AAA",
       "VirtualCurrencyPrices": {},
+      "IsStackable": false,
+      "IsTradable": false,
+      "IsLimitedEdition": false,
+      "CatalogVersion": "Main",
       "RealCurrencyPrices": {},
       "Tags": [],
       "CustomData": null,
@@ -4461,32 +3954,22 @@
         "UsagePeriodGroup": null
       },
       "Container": null,
-      "Bundle": {
-        "BundledItems": [
-          "BMGMask"
-        ],
-        "BundledResultTables": [],
-        "BundledVirtualCurrencies": {
-          "GD": 100
-        }
-      },
       "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
       "ItemImageUrl": null,
-      "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
+      "ActivatedMembership": null,
+      "Bundle": null
     },
     {
-      "ItemId": "Love_eye",
-      "ItemClass": "FACE",
+      "ItemId": "CONTENT TIER TWO",
+      "ItemClass": "NAMETAG",
+      "DisplayName": "a",
+      "Description": "a",
+      "VirtualCurrencyPrices": {},
+      "IsStackable": false,
+      "IsTradable": false,
+      "IsLimitedEdition": false,
       "CatalogVersion": "Main",
-      "DisplayName": "NOTICE ME SENPAI~",
-      "Description": "AAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
       "RealCurrencyPrices": {},
       "Tags": [],
       "CustomData": null,
@@ -4496,24 +3979,22 @@
         "UsagePeriodGroup": null
       },
       "Container": null,
-      "Bundle": null,
       "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
       "ItemImageUrl": null,
-      "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
+      "ActivatedMembership": null,
+      "Bundle": null
     },
     {
-      "ItemId": "ArroThruHed",
-      "ItemClass": "HEAD",
+      "ItemId": "CONTENT TIER THREE",
+      "ItemClass": "NAMETAG",
+      "DisplayName": "a",
+      "Description": "a",
+      "VirtualCurrencyPrices": {},
+      "IsStackable": false,
+      "IsTradable": false,
+      "IsLimitedEdition": false,
       "CatalogVersion": "Main",
-      "DisplayName": "ArroThruHed",
-      "Description": "AAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
       "RealCurrencyPrices": {},
       "Tags": [],
       "CustomData": null,
@@ -4523,128 +4004,11 @@
         "UsagePeriodGroup": null
       },
       "Container": null,
-      "Bundle": null,
       "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
       "ItemImageUrl": null,
-      "IsLimitedEdition": false,
       "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "AngelWings",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "AngelWings",
-      "Description": "AAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "LethalApeRedux_ContentShirt",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "CC Shirt",
-      "Description": "AAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "SHARK_SUIT",
-      "ItemClass": "BODY",
-      "CatalogVersion": "Main",
-      "DisplayName": "Shark Suit",
-      "Description": "AAAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 1000
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": null,
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
-    },
-    {
-      "ItemId": "JB",
-      "ItemClass": null,
-      "CatalogVersion": "Main",
-      "DisplayName": "JAWS BUNDLE",
-      "Description": "AAAA",
-      "VirtualCurrencyPrices": {
-        "GD": 0
-      },
-      "RealCurrencyPrices": {},
-      "Tags": [],
-      "CustomData": null,
-      "Consumable": {
-        "UsageCount": null,
-        "UsagePeriod": null,
-        "UsagePeriodGroup": null
-      },
-      "Container": null,
-      "Bundle": {
-        "BundledItems": [
-          "SHARK_SUIT"
-        ],
-        "BundledResultTables": [],
-        "BundledVirtualCurrencies": null
-      },
-      "CanBecomeCharacter": false,
-      "IsStackable": false,
-      "IsTradable": false,
-      "ItemImageUrl": null,
-      "IsLimitedEdition": false,
-      "InitialLimitedEditionCount": 0,
-      "ActivatedMembership": null
+      "ActivatedMembership": null,
+      "Bundle": null
     }
   ],
   "DropTables": []
